@@ -985,6 +985,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
     * [dbcleaner](https://github.com/khaiql/dbcleaner) - Clean database for testing purpose, inspired by `database_cleaner` in Ruby
     * [dsunit](https://github.com/viant/dsunit) - Datastore testing for SQL, NoSQL, structured files.
     * [frisby](https://github.com/verdverm/frisby) - a REST API testing framework
+    * [gauge](https://github.com/getgauge/gauge) - A lightweight cross-platform test automation tool written in Go
     * [ginkgo](http://onsi.github.io/ginkgo/) - BDD Testing Framework for Go
     * [go-carpet](https://github.com/msoap/go-carpet) - Tool for viewing test coverage in terminal
     * [go-mutesting](https://github.com/zimmski/go-mutesting) - Mutation testing for Go source code
